@@ -1,0 +1,17 @@
+{
+	"name": "homebrew-img",
+	"version": "1.0.0",
+	"description": "5etools homebrew images and associated assets",
+	"type": "module",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TheGiddyLimit/homebrew-img.git"
+	},
+	"author": "TheGiddyLimit + Friends",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/TheGiddyLimit/homebrew-img/issues"
+	},
+	"homepage": "https://github.com/TheGiddyLimit/homebrew-img#readme"
+}

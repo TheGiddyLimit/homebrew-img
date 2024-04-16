@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+.vs/
+node_modules/
+scratch/
+*.DS_Store
+Thumbs.db
