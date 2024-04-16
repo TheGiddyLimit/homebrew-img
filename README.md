@@ -6,8 +6,8 @@ Homebrew images (and related assets) for 5etools. See the [main homebrew reposit
 - `.webp` images are preferred. 5etools uses:
   - Compressed, 85% quality `webp` for most images
   - Uncompressed `webp` for tokens
-- Links from data in the [main homebrew repository](https://github.com/TheGiddyLimit/homebrew) should be of the form:
-  `https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/MyJsonSourceName/*.*`
+- Image links from data in the [main homebrew repository](https://github.com/TheGiddyLimit/homebrew) should be of the form:
+  `https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/MyJsonSourceName/*.*`
   For example, as a standard `"image"`-type `entry`:
   ```
     {
