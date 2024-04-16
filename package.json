@@ -5,7 +5,7 @@
 	"type": "module",
 	"private": true,
 	"scripts": {
-		"test:file-extensions": "node _test/test-file-contents.js",
+		"test:file-extensions": "node _test/test-file-extensions.js",
 		"test": "npm run test:file-extensions"
 	},
 	"repository": {
