@@ -3,6 +3,7 @@ import {lsRecursiveSync} from "5etools-utils/lib/UtilFs.js";
 
 const _TIME_TAG = "\tRun duration";
 const _DIRS = [
+	"font",
 	"img",
 	"pdf",
 ];
