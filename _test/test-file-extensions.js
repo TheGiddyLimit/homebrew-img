@@ -2,6 +2,12 @@ import {lsRecursiveSync} from "5etools-utils/lib/UtilFs.js";
 
 const _TIME_TAG = "\tRun duration";
 const _ALLOWED_EXTENSIONS = {
+	"font": new Set([
+		"otf",
+		"ttf",
+		"woff",
+		"woff2",
+	]),
 	"img": new Set([
 		"gif",
 		"jpeg",
