@@ -6,7 +6,8 @@
 	"private": true,
 	"scripts": {
 		"test:file-extensions": "node _test/test-file-extensions.js",
-		"test": "npm run test:file-extensions"
+		"test:file-sizes": "node _test/test-file-extensions.js",
+		"test": "npm run test:file-extensions && node _test/test-file-extensions.js"
 	},
 	"repository": {
 		"type": "git",
