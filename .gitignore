@@ -5,3 +5,4 @@ node_modules/
 scratch/
 *.DS_Store
 Thumbs.db
+upload.sh
