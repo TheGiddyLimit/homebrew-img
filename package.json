@@ -20,6 +20,6 @@
 	},
 	"homepage": "https://github.com/TheGiddyLimit/homebrew-img#readme",
 	"devDependencies": {
-		"5etools-utils": "^0.10.23"
+		"5etools-utils": "^0.12.17"
 	}
 }
