@@ -7,7 +7,8 @@
 	"scripts": {
 		"test:file-extensions": "node _test/test-file-extensions.js",
 		"test:file-sizes": "node _test/test-file-sizes.js",
-		"test": "npm run test:file-extensions && npm run test:file-sizes"
+		"test:source-names": "node _test/test-source-names.js",
+		"test": "npm run test:file-extensions && npm run test:file-sizes && npm run test:source-names"
 	},
 	"repository": {
 		"type": "git",
@@ -20,6 +21,6 @@
 	},
 	"homepage": "https://github.com/TheGiddyLimit/homebrew-img#readme",
 	"devDependencies": {
-		"5etools-utils": "^0.10.23"
+		"5etools-utils": "^0.12.19"
 	}
 }
