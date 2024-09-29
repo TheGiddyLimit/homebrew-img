@@ -2,6 +2,10 @@ import {lsRecursiveSync} from "5etools-utils/lib/UtilFs.js";
 import {TIME_TAG} from "./consts.js";
 
 const _ALLOWED_EXTENSIONS = {
+	"audio": new Set([
+		"mp3",
+		"wav",
+	]),
 	"font": new Set([
 		"otf",
 		"ttf",
